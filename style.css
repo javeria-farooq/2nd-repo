@@ -1,0 +1,51 @@
+#equal{
+    background-color: lightcoral;
+}
+
+
+
+
+#color{
+    background-color: lightgray;
+}
+
+body{
+    background-color: skyblue;
+}
+
+#head{
+    height: 70px;
+    text-align: right;
+    padding-right: 10px;
+    background-color: black;
+    color: white;
+}
+
+.body{
+    height: 50px;
+    width: 100px;
+    border: 1px solid grey;
+}
+table{
+    border: 2px solid black;
+    
+    width: 350px;
+    height: 350px;
+    margin: auto;
+    border-collapse: separate;
+    border-spacing: 0px;
+    margin-top: 50px;
+    text-align: center;
+    font-size: xx-large;
+  
+    background-color: white;
+   
+}
+
+td, th{
+    border: 2px solid black;
+}
+
+
+
+
